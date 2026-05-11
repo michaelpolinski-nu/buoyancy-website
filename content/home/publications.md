@@ -5,6 +5,11 @@ weight: 30
 ---
 
 
+- M. Polinski, P. Dinda,
+Conventional Attacks on Scientific Applications,
+13th Greater Chicago Area Systems Research Workshop (GCASR),
+May, 2026.
+\[[poster](papers/GCASR26_Poster_CASA.pdf)\]
 
 - N. Wanninger, N. Dhiantravan, P. Dinda,
   Virtualization So Light, It Floats! Accelerating Floating Point
