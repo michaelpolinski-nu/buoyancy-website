@@ -9,7 +9,7 @@ Enabling Floating Point Virtualization With Tiny Numbers,
 Proceedings of the 35th ACM Symposium on High-performance
   Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
 
-- K. Hallsby, L. Strand, P. Dinda
+- K. Hallsby, L. Strand, P. Dinda,
 Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization,
 Proceedings of the 35th ACM Symposium on High-performance
   Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
