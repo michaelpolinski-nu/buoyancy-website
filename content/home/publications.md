@@ -4,6 +4,15 @@ draft: false
 weight: 30
 ---
 
+- K. Hayes, P. Dinda,
+Enabling Floating Point Virtualization With Tiny Numbers,
+Proceedings of the 35th ACM Symposium on High-performance
+  Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
+
+- K. Hallsby, L. Strand, P. Dinda
+Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization,
+Proceedings of the 35th ACM Symposium on High-performance
+  Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
 
 - M. Polinski, P. Dinda,
 Conventional Attacks on Scientific Applications,
