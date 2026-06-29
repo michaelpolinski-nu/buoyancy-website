@@ -14,7 +14,7 @@ Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and
 Proceedings of the 35th ACM Symposium on High-performance
   Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
 
-- L. Strand, Adaptive Profiling via ML-driven Hardware Counter Orchestration, M.S. Thesis, Technical Report NU-CS-2025-25, Department of Computer Science, Northwestern University, June, 2026.  \[[thesis](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-25.pdf)
+- L. Strand, Adaptive Profiling via ML-driven Hardware Counter Orchestration, M.S. Thesis, Technical Report NU-CS-2025-25, Department of Computer Science, Northwestern University, June, 2026.  \[[thesis](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-25.pdf)\]
 
 - M. Polinski, P. Dinda,
 Conventional Attacks on Scientific Applications,
