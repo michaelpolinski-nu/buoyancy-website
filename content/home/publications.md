@@ -19,13 +19,15 @@ September, 2026.
 
 - K. Hayes, P. Dinda,
 Enabling Floating Point Virtualization With Tiny Numbers,
-Proceedings of the 35th ACM Symposium on High-performance
-  Parallel and Distributed Computing (HPDC 2026). July, 2026.  \[[paper](papers/hpdc26-tiny.pdf)\]
+Proceedings of the 35th ACM Symposium on High-performance Parallel and Distributed Computing (HPDC 2026).
+July, 2026.
+\[[paper](papers/hpdc26-tiny.pdf)\]
 
 - K. Hallsby, L. Strand, P. Dinda,
 Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization,
-Proceedings of the 35th ACM Symposium on High-performance
-  Parallel and Distributed Computing (HPDC 2026). July, 2026.  \[[paper](papers/hpdc26-kbe.pdf)\]  Best Poster Winner
+Proceedings of the 35th ACM Symposium on High-performance Parallel and Distributed Computing (HPDC 2026).
+July, 2026.
+\[[paper](papers/hpdc26-kbe.pdf)\]  Best Poster Winner
 
 - L. Strand, Adaptive Profiling via ML-driven Hardware Counter Orchestration, M.S. Thesis, Technical Report NU-CS-2025-25, Department of Computer Science, Northwestern University, June, 2026.  \[[thesis](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-25.pdf)\]
 
