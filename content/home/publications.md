@@ -4,6 +4,9 @@ draft: false
 weight: 30
 ---
 
+- M. Polinski, P. Dinda, 
+A Novel Nudging Attack on Scientific Applications, Proceedings of the 22nd IEEE International eScience Conference (eScience’26), September, 2026.  To Appear.
+
 - K. Hayes, P. Dinda,
 Enabling Floating Point Virtualization With Tiny Numbers,
 Proceedings of the 35th ACM Symposium on High-performance
