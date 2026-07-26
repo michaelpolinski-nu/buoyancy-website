@@ -7,12 +7,12 @@ weight: 30
 - K. Hayes, P. Dinda,
 Enabling Floating Point Virtualization With Tiny Numbers,
 Proceedings of the 35th ACM Symposium on High-performance
-  Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
+  Parallel and Distributed Computing (HPDC 2026). July, 2026.  \[[paper](papers/hpdc26-tiny.pdf)\]
 
 - K. Hallsby, L. Strand, P. Dinda,
 Hardware-based Kernel-Bypass Exceptions to Accelerate Floating Point Tracing and Virtualization,
 Proceedings of the 35th ACM Symposium on High-performance
-  Parallel and Distributed Computing (HDPC 2026). July, 2026.  To Appear.
+  Parallel and Distributed Computing (HPDC 2026). July, 2026.  \[[paper](papers/hpdc26-kbe.pdf)\]  Best Poster Winner
 
 - L. Strand, Adaptive Profiling via ML-driven Hardware Counter Orchestration, M.S. Thesis, Technical Report NU-CS-2025-25, Department of Computer Science, Northwestern University, June, 2026.  \[[thesis](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-25.pdf)\]
 
@@ -25,7 +25,7 @@ May, 2026.
 - N. Wanninger, N. Dhiantravan, P. Dinda,
   Virtualization So Light, It Floats! Accelerating Floating Point
   Virtualization, Proceedings of the 34th ACM Symposium on High-performance
-  Parallel and Distributed Computing (HDPC 2025). July, 2025.  \[[paper](http://pdinda.org/Papers/hpdc25.pdf)\]
+  Parallel and Distributed Computing (HPDC 2025). July, 2025.  \[[paper](http://pdinda.org/Papers/hpdc25.pdf)\]
 
 - K. Hallsby, L. Strand, N. Wanninger, N. Dhiantravan, P. Dinda,
 Architecture-independent Floating Point Spying and an Architecture for
@@ -40,7 +40,7 @@ Department of Computer Science, Northwestern University, July, 2025.
 - P. Dinda, N. Wanninger, J. Ma, A. Bernat, C. Bernat, S. Ghosh,
   C. Kraemer, Y. Elmasry, FPVM: Towards a Floating Point Virtual
   Machine, Proceedings of the 31st ACM Symposium on High-performance
-  Parallel and Distributed Computing (HDPC 2022). June, 2022.  \[[paper](http://pdinda.org/Papers/hpdc22.pdf)\]
+  Parallel and Distributed Computing (HPDC 2022). June, 2022.  \[[paper](http://pdinda.org/Papers/hpdc22.pdf)\]
 
 - P. Dinda, A. Bernat, Comparing the Understanding of IEEE Floating
  Point Between Scientific and Non-scientific Developers, Technical
