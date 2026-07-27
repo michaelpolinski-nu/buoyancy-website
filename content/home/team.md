@@ -24,6 +24,7 @@ weight: 20
 - [Souradip Ghosh](https://souradipghosh.com/) (Northwestern BS, now at Carnegie Mellon)
 - [Yehya Elmasry](https://www.linkedin.com/in/yehya-elmasry/) (Northwestern BS)
 - [Christian Lee](https://www.linkedin.com/in/christian-lee-b429032a9/) (Northwestern BS)
+- [Devam Shah](https://www.linkedin.com/in/devams/) (UIUC BS)
 - [Haresh Wedanayake](https://www.linkedin.com/in/haresh-wedanayake-a47162219/) (Northwestern BS)
 - [Alex Bernat](https://github.com/alexbernat) (Northwestern Special,
   now at Harvard)
