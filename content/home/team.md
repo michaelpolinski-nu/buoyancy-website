@@ -18,7 +18,8 @@ weight: 20
 - [Conor
   Kotwasinski](https://www.linkedin.com/in/conor-kotwasinski-86aa97200/)
   (Northwestern BS/MS)
-- [Liam Strand](https://liam-strand.github.io/) (Northwestern MS)
+- [Ethan Sterling](https://www.linkedin.com/in/ethan-sterling-2004/) (Northwestern BS)
+- [Liam Strand](https://liam-strand.github.io/) (Northwestern BS/MS)
 - [Nadharm Dhiantravan](https://dl.acm.org/profile/99661055635)
   (Northwestern BS)
 - [Souradip Ghosh](https://souradipghosh.com/) (Northwestern BS, now at Carnegie Mellon)
