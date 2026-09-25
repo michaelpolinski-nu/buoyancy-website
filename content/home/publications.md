@@ -5,6 +5,9 @@ weight: 30
 ---
 
 - M. Polinski, P. Dinda, 
+A First Look at Conventional Attacks on Scientific Applications, Proceedings of the 5th Workshop on Cyber Security in High Performance Computing (S-HPC 2026 at SC 2026), November, 2026.  To Appear.
+
+- M. Polinski, P. Dinda, 
 A Novel Nudging Attack on Scientific Applications, Proceedings of the 22nd IEEE International eScience Conference (eScience’26), September, 2026.  To Appear.
 
 - K. Hayes, P. Dinda,
