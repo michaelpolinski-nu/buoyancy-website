@@ -1,9 +1,9 @@
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'The Buoyancy Project'
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [params]
-repoURL = 'https://github.com/michaelpolinski/buoyancy-website'
+repoURL = 'https://github.com/michaelpolinski-nu/buoyancy-website'
 description = 'Buoyancy: exploring systems and user approaches to floating point correctness and resilience'
 colorDark = '#121212'
 colorLight = '#f7f7f7'
