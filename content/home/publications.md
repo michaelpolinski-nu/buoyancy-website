@@ -9,6 +9,7 @@ A First Look at Conventional Attacks on Scientific Applications,
 Proceedings of the 5th Workshop on Cyber Security in High Performance Computing (S-HPC 2026 at SC 2026),
 November, 2026.
 \[[paper](papers/casa-shpc26.pdf)\]
+\[[slides](papers/casa-shpc26-slides.pdf)\]
 
 - M. Polinski, P. Dinda, 
 Exploring A Novel Nudging Attack on Scientific Applications,
